@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edgar Lagos</h1>
-<div align="center"> 
+<div align="row"> 
 <div align="right">
   <a href="#"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/></a>
 </div>
