@@ -10,7 +10,7 @@
 
 <h3 align="left">Stack of tecnologies:</h3>
 <p align="center">  
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=javascript&logoColor=black" />
       <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
 
