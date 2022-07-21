@@ -6,7 +6,11 @@ const edgarLagos = {
   code: [Javascript, HTML, CSS,],
   tools: [React, Redux, Node, Styled-Components, Docker, SASS, Bootstap, Material UI],
 }
+HTML5 CSS3 JavaScript TypeScript Vue.js Nuxt.js React
 
+Less Sass Stylus TailwindCss Windicss
+
+Webpack Rollup Vite ESlint Git GitLab VS Code Netlify Vercel
 
 
 <!--
