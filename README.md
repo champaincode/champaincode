@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Edgar Lagos</h1>
 <h3 align="center">Responsible, proactive and with a positive attitude. I like to train myself in what I do, and above all work as a team. As I was doing a course on graphic design I was struck by web development and mobile applications, for this reason, I decided to do the platform 5 bootcamp in order to graduate from full stack my goal is to perfect myself in my favorite area, front end, and enjoy the journey learning and implementing all my acquired knowledge</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=champaincode&label=Profile%20views&color=0e75b6&style=flat" alt="champaincode" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=champaincode" alt="champaincode" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/edgar lagos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="edgar lagos" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/edgar-lagos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edgar-lagos/" height="30" width="40" /></a>
+<a href="https://discord.gg/Edgar Lagos#8602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Edgar Lagos#8602" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,16 +13,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/champaincode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="champaincode" /></a><a href="https://ko-fi.com/https://github.com/champaincode"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://github.com/champaincode" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=champaincode&show_icons=true&locale=en&layout=compact" alt="champaincode" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=champaincode&show_icons=true&locale=en" alt="champaincode" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=champaincode&" alt="champaincode" /></p>
-
-
-<!--
-**champaincode/champaincode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
