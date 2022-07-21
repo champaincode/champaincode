@@ -17,7 +17,7 @@
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-    square&logo=PostgreSQL&logoColor=white" />
-      <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-blue?style=for-the-badge&logo=sequelize"/>
+      <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-blue?style=flat-    square&logo=sequelize&logoColor=white"/>
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   
