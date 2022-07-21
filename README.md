@@ -18,7 +18,7 @@
      <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat- square&logo=PostgreSQL&logoColor=white" />
       <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-blue?style=flat-    square&logo=sequelize&logoColor=white"/>
-       <img alt="Boostrap" src="https://https://img.shields.io/badge/-Bootstrap-blueviolet?style=flat-    square&logo=bootsrap&logoColor=white"/>
+       <img alt="Boostrap" src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=flat-    square&logo=sequelize&logoColor=white"/>
     
    <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
