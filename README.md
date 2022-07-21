@@ -1,11 +1,8 @@
 ### Hi,I'm Edgar 😄👋
 
  ## A little more about me...
-const edgarLagos = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS,],
-  tools: [React, Redux, Node, Styled-Components, Docker, SASS, Bootstap, Material UI],
-}
+⚡ Responsible, proactive and with a positive attitude. I like to train myself in what I do, and above all work as a team.
+As I was doing a course on graphic design I was struck by web development and mobile applications, for this reason, I decided to do the platform 5 bootcamp in order to graduate from full stack my goal is to perfect myself in my favorite area, front end, and enjoy the journey learning and implementing all my acquired knowledge
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
