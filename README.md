@@ -1,6 +1,6 @@
 ### Hi,I'm Edgar 😄👋
 
- A little more about me...
+ ## A little more about me...
 const edgarLagos = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS,],
