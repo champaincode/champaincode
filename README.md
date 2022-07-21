@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Edgar Lagos</h1>
 <div align="row"> 
-  
-<div align="right">
-      <div align="left">
+  <div align="column">
 <h3 >About me:</h3>
 ⚡Responsible, proactive and with a positive attitude. I like to train myself in what I do, and above all work as a team. As I was doing a course on graphic design I was struck by web development and mobile applications, for this reason, I decided to do the platform 5 bootcamp in order to graduate from full stack my goal is to perfect myself in my favorite area, front end, and enjoy the journey learning and implementing all my acquired knowledge
   </div>
+<div align="right">
+      
   <a href="#"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/></a>
 </div>
 
