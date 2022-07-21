@@ -10,19 +10,16 @@
 
 <h3 align="left">Stack of tecnologies:</h3>
 <p align="center">  
-    <img alt="JavaScript" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=javascript&logoColor=black" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-    square&logo=javascript&logoColor=white" />
       <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
-
-    
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
      <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat- square&logo=PostgreSQL&logoColor=white" />
       <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-blue?style=flat-    square&logo=sequelize&logoColor=white"/>
        <img alt="Boostrap" src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=flat-    square&logo=bootstrap&logoColor=white"/>
-    
-   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+    <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=Visual+Studio+Code&logoColor=white" />
      <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
