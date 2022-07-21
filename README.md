@@ -1,4 +1,4 @@
-### Hi,I'm Edgar 👋
+### Hi,I'm Edgar 😄👋
 
  A little more about me...
 const edgarLagos = {
