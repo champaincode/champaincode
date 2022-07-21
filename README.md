@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edgar Lagos</h1>
-<h3 align="center"> ⚡Responsible, proactive and with a positive attitude. I like to train myself in what I do, and above all work as a team. As I was doing a course on graphic design I was struck by web development and mobile applications, for this reason, I decided to do the platform 5 bootcamp in order to graduate from full stack my goal is to perfect myself in my favorite area, front end, and enjoy the journey learning and implementing all my acquired knowledge</h3>
+### About me
+⚡Responsible, proactive and with a positive attitude. I like to train myself in what I do, and above all work as a team. As I was doing a course on graphic design I was struck by web development and mobile applications, for this reason, I decided to do the platform 5 bootcamp in order to graduate from full stack my goal is to perfect myself in my favorite area, front end, and enjoy the journey learning and implementing all my acquired knowledge</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
