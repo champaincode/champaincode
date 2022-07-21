@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+ A little more about me...
+const edgarLagos = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Node, Styled-Components, Docker, SASS, Bootstap, Material UI],
+}
+
+
+
 <!--
 **champaincode/champaincode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
