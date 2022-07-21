@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src=https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/></a>
+  <a href="#"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/></a>
 </p>
 
 
