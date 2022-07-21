@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi,I'm Edgar 👋
 
  A little more about me...
 const edgarLagos = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript, HTML, CSS,],
   tools: [React, Redux, Node, Styled-Components, Docker, SASS, Bootstap, Material UI],
 }
 
