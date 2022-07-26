@@ -14,7 +14,7 @@
 <p align="left">
     <a href="mailto:edgarlagos.355@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:borjapazr@gmail.com"/></a>
 </p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/edgar-lagos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edgar-lagos/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/edgar-lagos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edgar-lagos/" height="30" width="40" /></a>
 <a href="https://discord.gg/Edgar Lagos#8602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Edgar Lagos#8602" height="30" width="40" /></a>
   
 
