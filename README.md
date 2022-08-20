@@ -7,8 +7,9 @@
   </div>
   <div style={display:"flex"}> 
 
- <a href="#"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  height="300" width="50%"/></a>
-  <a href="#"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a2d3816-66fc-444a-b22a-81f3a67838af/dckesgw-7c5e9b42-4763-4f88-9e4e-0c4a4a88a389.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi83YTJkMzgxNi02NmZjLTQ0NGEtYjIyYS04MWYzYTY3ODM4YWYvZGNrZXNndy03YzVlOWI0Mi00NzYzLTRmODgtOWU0ZS0wYzRhNGE4OGEzODkuZ2lmIn1dXX0.FoZ3gfbFWc2Y3FIAyx1iRGMW6lFzVDO_96p0CNPTA10" height="300" width="50%"/></a>
+ <div><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  height="300" width="50%"/></div>
+    
+  <div><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a2d3816-66fc-444a-b22a-81f3a67838af/dckesgw-7c5e9b42-4763-4f88-9e4e-0c4a4a88a389.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi83YTJkMzgxNi02NmZjLTQ0NGEtYjIyYS04MWYzYTY3ODM4YWYvZGNrZXNndy03YzVlOWI0Mi00NzYzLTRmODgtOWU0ZS0wYzRhNGE4OGEzODkuZ2lmIn1dXX0.FoZ3gfbFWc2Y3FIAyx1iRGMW6lFzVDO_96p0CNPTA10" height="300" width="50%"/></div>
 
 </div>
 </div>
